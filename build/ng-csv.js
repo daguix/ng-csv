@@ -25,7 +25,7 @@ angular.module('ngCsv',
         'ngCsv.config',
         'ngCsv.services',
         'ngCsv.directives',
-        'ngSanitize'
+        'textAngular'
     ]);
 
 // Common.js package manager support (e.g. ComponentJS, WebPack)
